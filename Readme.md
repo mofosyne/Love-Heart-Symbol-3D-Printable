@@ -1,6 +1,7 @@
 # Love Heart (Medium Resolution)
 
-![full heart](./png/smallheart_supportRequired_10x10mm.png)
+<img src="loveheartswam.jpg" height="400"/>
+<img src="./png/smallheart_supportRequired_10x10mm.png" height="400" />
 
 ## Description
 
@@ -80,3 +81,7 @@ You can also just run `make supportRequired` to render only the supportRequired 
     * https://3dless.com/ - Reduce filesize and complexity
     * https://www.meshmixer.com/ - fix manifold errors via inspector tools
     * https://www.openscad.org/ - to generate the various cut and sizing options
+
+--------------------------------------------------------------------------------
+
+<img src="loveheartcloud.jpg" height="400"/>
