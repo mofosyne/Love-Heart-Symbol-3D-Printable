@@ -1,6 +1,6 @@
-# Love Heart 10mm x 10mm (Medium Resolution)
+# Love Heart (Medium Resolution)
 
-![full heart](./png/smallheart_supportRequired_10x10x4mm.png)
+![full heart](./png/smallheart_supportRequired_10x10mm.png)
 
 ## Description
 
@@ -22,32 +22,32 @@ This is a remix of
 - https://www.thingiverse.com/thing:3235897 - Love Heart (High Res) by CptPicard November 25, 2018
 - https://www.thingiverse.com/thing:6190 - Exploitable Heart by emmett February 07, 2011
 
-### Licence
+### License
 
-This licence is inheriting from Exploitable Heart by emmett so this is licensed under the Creative Commons - Attribution - Share Alike license.
+This License is inheriting from Exploitable Heart by emmett so this is licensed under the Creative Commons - Attribution - Share Alike license.
 
 -------------------------------------------------------------------------------
 
 ## Model Options
 
-There is three set of files from 10x10x4mm to 40x40x4mm in the stl folder
+There is three set of files from 10x10mm to 40x40mm in the stl folder
 
 ### flatTopBottom (No Support required)
 
-![flat top and bottom](./png/smallheart_flatTopBottom_10x10x4mm.png)
+![flat top and bottom](./png/smallheart_flatTopBottom_10x10mm.png)
 
 This is both cut on top and bottom.
 Personally I don't quite like this design visually, but it does allow for drawing messages on the top with a marker.
 
 ### flatBottom (No Support Required)
 
-![flat bottom](./png/smallheart_flatBottom_10x10x4mm.png)
+![flat bottom](./png/smallheart_flatBottom_10x10mm.png)
 
 This is a flat bottom which allows for safer no support required 3D printing.
 
 ### supportRequired (Support Required)
 
-![full heart](./png/smallheart_supportRequired_10x10x4mm.png)
+![full heart](./png/smallheart_supportRequired_10x10mm.png)
 
 This is a full sized love heart, you will need to print support to avoid problem with 3D printing this object.
 This might be what you want to use if you are trying to have a nice looking love heart on both sides for presentation purpose like hanging on a wire.
